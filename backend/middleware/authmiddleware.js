@@ -1,6 +1,6 @@
 module.exports = (req, res, next) => {
   // Simulate authentication check
-  const isAuthenticated = true; // This should be replaced with actual authentication logic
+  const isAuthenticated = true; 
 
   if (isAuthenticated) {
     next();
