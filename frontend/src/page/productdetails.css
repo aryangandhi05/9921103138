@@ -1,0 +1,17 @@
+/* productsdetails.css */
+.product-details {
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  width: 400px;
+  margin: 20px auto;
+}
+
+.product-details h2 {
+  margin-bottom: 20px;
+}
+
+.product-details p {
+  margin-bottom: 10px;
+}
